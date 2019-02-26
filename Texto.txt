@@ -1,0 +1,5 @@
+Al usar el addForce con Forcemode.impulse el circulo empezo a moverse y se empezo a llevar a los otros 
+circulos hasta qe todos cayeron.
+Al usar el addForce con Forcemode.Force ocurrio lo mismo que con impulse, solo que tuve que usar un
+numero mayor para multiplicar.
+Lo que se me hace raro es que al usar impulse nunca veo que el circulo pare. 
